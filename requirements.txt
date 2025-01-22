@@ -1,0 +1,6 @@
+pandas
+gspread
+jieba
+gradio
+oauth2client
+psutil
